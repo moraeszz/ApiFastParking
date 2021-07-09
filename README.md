@@ -13,6 +13,8 @@
 
 /Saida/:id DELETE : Por último, realizará a exclusão do recurso pelo id e mostra o valor a ser pago.
 
+🛠️ EM ANDAMENTO 🛠️
+
 
 
 
