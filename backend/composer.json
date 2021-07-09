@@ -1,0 +1,10 @@
+{
+    "name": "rmoraes/fast-parking-parte1",
+    "description": "Fast Parking REST",
+    "autoload": {
+        "psr-4": {
+            "Rmoraes\\FastParkingParte1\\": "src/"
+        }
+    },
+    "require": {}
+}
